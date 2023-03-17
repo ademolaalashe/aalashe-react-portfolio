@@ -1,3 +1,4 @@
+// Importing the 'Outlet' component from the 'react-router-dom' library, which is used to render nested routes
 import {Outlet} from 'react-router-dom'
 import Sidebar from '../sidebar';
 import './index.scss'
